@@ -1,3 +1,6 @@
+"""
+This program ""H"" part of the algorithm.
+"""
 print("Enter ""A"" to increase by 40\n")
 print("Enter ""B"" to decrease by 40\n")
 print("Enter ""C"" to quit the program\n")
